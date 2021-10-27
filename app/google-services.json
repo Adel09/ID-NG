@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270461114441",
+    "project_id": "naija-documents",
+    "storage_bucket": "naija-documents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270461114441:android:c2929d925a5959d8288798",
+        "android_client_info": {
+          "package_name": "com.crumlabs.naijadocuments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270461114441-n1ftdu7teud9f6u69b8oe8lrhhv3keff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLQ9A7swutR5JVbb0XqZmIUIDLdZ2ARY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270461114441-n1ftdu7teud9f6u69b8oe8lrhhv3keff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
