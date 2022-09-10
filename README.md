@@ -16,5 +16,5 @@ App for storing Nigerian government IDs
 ![Screenshot_20211206-135509_IDNG](https://user-images.githubusercontent.com/18511990/144850198-175b109e-b5bd-4c89-ac97-ab65c4f1b56b.jpg)
 
 <br>
-![Screenshot_20211206-135517_IDNG](https://user-images.githubusercontent.com/18511990/144850235-7d915a67-eafb-41ae-86d2-617bc5abedbf.jpg)
+<img src="https://user-images.githubusercontent.com/18511990/144850235-7d915a67-eafb-41ae-86d2-617bc5abedbf.jpg" />
 
